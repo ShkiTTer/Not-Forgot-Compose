@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NotForgotCompose</string>
+
+    <!-- Splash -->
+    <string name="splash_title">Not\nForgot</string>
+</resources>
